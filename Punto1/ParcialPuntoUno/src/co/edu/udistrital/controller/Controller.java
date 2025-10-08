@@ -16,11 +16,9 @@ import co.edu.udistrital.vista.Vista;
  * @author Estudiantes
  */
 public class Controller {
-    
-    private Vista vista;
-    
+        
     public Controller(){
-        vista = new Vista();
+        run();
     }
 
     
@@ -42,3 +40,4 @@ public class Controller {
         
     }
 }
+
