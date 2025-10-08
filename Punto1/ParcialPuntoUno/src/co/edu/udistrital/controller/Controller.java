@@ -9,7 +9,6 @@ import co.edu.udistrital.model.Periodista;
 import co.edu.udistrital.model.Universidad;
 import co.edu.udistrital.model.WebMaster;
 import co.edu.udistrital.observer.IObserver;
-import co.edu.udistrital.vista.Vista;
 
 /**
  *
@@ -40,4 +39,5 @@ public class Controller {
         
     }
 }
+
 
